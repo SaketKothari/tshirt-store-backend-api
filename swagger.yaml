@@ -1,11 +1,11 @@
 openapi: '3.0.0'
 info:
   title: Tshirt store API
-  description: Creating API for ecomm store
+  description: Creating API for ecommerce store
   version: 1.1.0
   contact:
     email: saketkothari98@gmail.com
-    url: 'https://saketkothari.netlify.app'
+    url: 'https://saketkothari.vercel.app'
 
 # servers:
 #   - url: "https://localhost:4000/api/v1"
