@@ -25,7 +25,7 @@
     "mongoose": "^8.9.5",
     "morgan": "^1.10.0",
     "nodemailer": "^6.9.9",
-    "razorpay": "^2.8.1",
+    "razorpay": "^2.9.6",
     "stripe": "^9.1.0",
     "swagger-ui-express": "^4.4.0",
     "validator": "^13.15.22",
