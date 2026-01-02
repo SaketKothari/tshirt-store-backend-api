@@ -14,7 +14,7 @@ cloudinary.config({
 });
 
 app.get('/', (req, res) => {
-  res.json({ mssg: 'Welcome to the app' });
+  res.json({ message: 'Welcome to the app' });
 });
 
 app.listen(process.env.PORT, () => {
